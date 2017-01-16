@@ -234,7 +234,7 @@ Steps:
 **Note**: In the following, replace **{your-initials}** with the initials of your name.
   * **Proxy Name**: **{your\_initials}\_hotels**
   * **Project Base Path**: **/v1/{your\_initials}\_hotels**
-  * **Existing API**: **https://apibaas-trial.apigee.net/sudheendra/sandbox**
+  * **Existing API**: **https://apibaas-trial.apigee.net/amer-demo13/sandbox**
 
 10. Verify that it looks mostly like this, except with **YOUR** initials in place of dpc:
 ![](./media/new_baas.jpg)
