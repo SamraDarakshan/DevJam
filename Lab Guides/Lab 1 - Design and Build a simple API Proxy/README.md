@@ -226,7 +226,9 @@ http://playground.apistudio.io/6c02be7f-aac3-4d11-bd68-795ad19b23c4/spec
 **Note**: In the following, replace **{your-initials}** with the initials of your name.
   * **Proxy Name**: **{your\_initials}\_hotels**
   * **Project Base Path**: **/v1/{your\_initials}\_hotels**
-  * **Existing API**: **https://api.usergrid.com/nwalters/sandbox**
+  * **Existing API**: **https://apibaas-trial.apigee.net/nwalters3/sandbox**
+  
+  
 
 10. Verify that it looks mostly like this, except with **YOUR** initials in place of dpc:
 ![](./media/Build-a-Proxy.png)
