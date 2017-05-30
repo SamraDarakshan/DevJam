@@ -11,7 +11,7 @@ how to use the Trace capabilities in the Management UI.
 
 ## Prerequisites
 
-- Google's [Postman tool](https://www.getpostman.com/) installed on your workstation, or something equivalent to send REST API Requests.
+- The [Postman tool](https://www.getpostman.com/) installed on your workstation, or something equivalent to send REST API Requests.
 
 ## Introduction
 
